@@ -3,7 +3,7 @@
 
 #### **1. TIC TAC TOE**
 
-:point_right: No need to install any library.
+>No need to install any library.
 
   **How to Run**
   >1. Remember! You have installed python(3+) in your PC.
