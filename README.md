@@ -7,10 +7,10 @@
 Virtual Assistant is developed in Python to open up several applications. In this project, I have given the name as Eric to my personal Virtual Assistant. Eric can tell us the time, date, can search anything on the we, can search video on youtube, can open Gmail and Amazon. Plus Eric can calculate several arithmetic problems. This project is developed on Raspberry Pi.
 
 **Following are the important libraries used in this project:**
->speech_recognition
->selenium
->wikipedia
->random
+> speech_recognition
+> selenium
+> wikipedia
+> random
 
 #### **2. DICE ROLLING**
 
