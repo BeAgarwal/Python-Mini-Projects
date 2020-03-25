@@ -6,11 +6,11 @@
 
 Virtual Assistant is developed in Python to open up several applications. In this project, I have given the name as Eric to my personal Virtual Assistant. Eric can tell us the time, date, can search anything on the web, can search video on youtube, can open Gmail and Amazon. Plus Eric can calculate several arithmetic problems. This project is developed on Raspberry Pi.
 
-**Following are the important libraries used in this project:**
->1. speech_recognition
->2. selenium
->3. wikipedia
->4. random
+ **Following are the important libraries used in this project:**
+ >1. speech_recognition
+ >2. selenium
+ >3. wikipedia
+ >4. random
 
 #### **2. DICE ROLLING**
 
@@ -50,4 +50,16 @@ Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-penc
   >2. Open *tic_tac_toe.py*.
   >3. Click on Run button in the menu button or Press F5 (fn+F5).
   
+  #### **6. Snake Slithering Game**
+
+Snake Slithering Game is developed by using the pygame library in python.
+
+  **How to Run**
+  >1. Open *terminal* and go to the location where you have saved the code or open *Python IDLE*.
+  >2. Run code as *snake_slither.py*.
   
+  **Following are the important libraries used in this project:**
+  >1. pygame
+  >2. time
+  >3. sys
+  >4. random
