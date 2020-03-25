@@ -50,7 +50,7 @@ Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-penc
   >2. Open *tic_tac_toe.py*.
   >3. Click on Run button in the menu button or Press F5 (fn+F5).
   
-  #### **6. Snake Slithering Game**
+  #### **6. SNAKE SLITHERING GAME**
 
 Snake Slithering Game is developed by using the pygame library in python.
 
